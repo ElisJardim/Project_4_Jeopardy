@@ -2,6 +2,13 @@
 
 ![Jeopardy](./Images/Jeopardy.png)
 
+# Group
+
+[Elisangela](https://github.com/ElisJardim)
+[Geetha]()
+[Kurt](https://github.com/KurtGoesch)
+[Justin](https://github.com/DeMaagdJ)
+
 # About Jeopardy
 
 * American television game show created by Merv Griffin
