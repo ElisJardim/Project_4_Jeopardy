@@ -5,7 +5,7 @@
 # Group
 
 [Elisangela](https://github.com/ElisJardim)
-[Geetha]()
+[Geetha](https://github.com/Geetraje)
 [Kurt](https://github.com/KurtGoesch)
 [Justin](https://github.com/DeMaagdJ)
 
