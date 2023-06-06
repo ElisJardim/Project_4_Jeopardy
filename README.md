@@ -182,6 +182,8 @@ The data was read and converted to numerical data using get_dummies. I have choo
 
 * [kdnuggets.com](https://www.kdnuggets.com/)
 
+* https://j-archive.com/
+
 
 
 
